@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Reporting>
+	<Date>2022.11.09</Date>
+	<Factures>
+		<Facture>
+			<NumeroFacture>1042393549</NumeroFacture>
+			<SIRETFournisseur>77566736302470</SIRETFournisseur>
+			<SIRETClient>22830001800055</SIRETClient>
+			<COD_SERV>CDE</COD_SERV>
+			<COD_STE>41</COD_STE>
+			<NUM_CLI_DEMAT>3029154</NUM_CLI_DEMAT>
+			<NOM_CLI>MAISON DEP DE L'ENFANCE</NOM_CLI>
+			<VIL_LIV>83220 LE PRADET</VIL_LIV>
+			<RetourSERES>
+				<Code>OK</Code>
+				<DateTraitement>2022.11.08 21:42</DateTraitement>
+			</RetourSERES>
+		</Facture>
+		<Facture>
+			<NumeroFacture>1043266767</NumeroFacture>
+			<SIRETFournisseur>77566736302470</SIRETFournisseur>
+			<SIRETClient>22830001800055</SIRETClient>
+			<COD_SERV>CDE</COD_SERV>
+			<COD_STE>41</COD_STE>
+			<NUM_CLI_DEMAT>3029154</NUM_CLI_DEMAT>
+			<NOM_CLI>MAISON DEP DE L'ENFANCE</NOM_CLI>
+			<VIL_LIV>83220 LE PRADET</VIL_LIV>
+			<RetourSERES>
+				<Code>OK</Code>
+				<DateTraitement>2022.11.08 21:42</DateTraitement>
+			</RetourSERES>
+		</Facture>
+		<Facture>
+			<NumeroFacture>1044866098</NumeroFacture>
+			<SIRETFournisseur>77566736302470</SIRETFournisseur>
+			<SIRETClient>22830001800055</SIRETClient>
+			<COD_SERV>CDE</COD_SERV>
+			<COD_STE>41</COD_STE>
+			<NUM_CLI_DEMAT>3029154</NUM_CLI_DEMAT>
+			<NOM_CLI>MAISON DEP DE L'ENFANCE</NOM_CLI>
+			<VIL_LIV>83220 LE PRADET</VIL_LIV>
+			<RetourSERES>
+				<Code>OK</Code>
+				<DateTraitement>2022.11.08 21:42</DateTraitement>
+			</RetourSERES>
+		</Facture>
+	</Factures>
+</Reporting>
